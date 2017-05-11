@@ -78,7 +78,7 @@ int main()
     checkTree(rootNode);
     free(rootNode);
     if(validate) {
-        printf("Accepted\n");
+        printf("Accepted");
     }
     return 0;
 }
