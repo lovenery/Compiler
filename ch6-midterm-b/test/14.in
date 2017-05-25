@@ -1,0 +1,6 @@
+<and>
+	<true/>
+	<not>
+		<false/>
+	</not>
+</and>

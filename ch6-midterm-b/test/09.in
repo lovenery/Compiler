@@ -1,0 +1,16 @@
+<or>
+	<and>
+		<false/>
+		<or>
+			<false/>
+			<or>
+				<true/>
+				<false/>
+			</or>
+			<true/>
+		</or>
+	</and>
+	<not>
+		<false/>
+	</not>
+</or>
